@@ -1,0 +1,35 @@
+{
+    "output": "",
+    "generator": "site",
+    "title": "toughsms docs",
+    "description": "",
+    "isbn": "",
+    "extension": "",
+    "plugins": [
+        "prism",
+        "-highlight"
+    ],
+    "style":{
+        "website":"styles/website.css"
+    },
+    "pluginsConfig": {
+    },
+    "variables": {},
+    "links": {
+        "sidebar": {
+            "TOUGHSMS 计费系统参考手册": "http://toughsms.toughcloud.net"
+        }
+    },
+    "pdf": {
+        "toc": true,
+        "pageNumbers": false,
+        "fontSize": 12,
+        "paperSize": "a4",
+        "margin": {
+            "right": 36,
+            "left": 36,
+            "top": 48,
+            "bottom": 48
+        }
+    }
+}
