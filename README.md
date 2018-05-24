@@ -19,7 +19,7 @@ TOUGHSMS 计费系统是一个高性能功能完善的网络计费系统，致�
 
 ## 网络拓扑
 
-![](http://static.toughcloud.net/toughsms/tc_20180517165912_22.png)
+![](http://static.toughcloud.net/toughsms/tc_20180524164108_7.png)
 
 - 系统采用分布式部署的方式，具备良好的可伸缩性。
 - 支持可选的应用交付控制器实现负载均衡，保证服务高可用性。
