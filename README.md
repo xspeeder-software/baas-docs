@@ -19,7 +19,7 @@ TOUGHSMS 计费系统是一个高性能功能完善的网络计费系统，致�
 
 ## 网络拓扑
 
-![](http://static.toughcloud.net/toughsms/tc_20180524164108_7.png)
+![](http://static.toughcloud.net/toughsms/tc_20180524164945_8.png)
 
 
 ## 服务器配置建议
