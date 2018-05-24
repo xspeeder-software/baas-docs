@@ -24,6 +24,9 @@
 - czmq-devel # 消息通信模块扩展编译
 - openjdk8 # RADIUS java核心组件运行支持
 
+安装指令：
+
+    yum install -y mariadb-server mariadb mariadb-libs bzip2 python-devel python-virtualenv gcc mariadb-devel openssl java czmq czmq-devel
 
 ## 获取最新的安装文件 
 
