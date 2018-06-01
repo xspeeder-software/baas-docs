@@ -1,7 +1,8 @@
 {
     "output": "",
     "generator": "site",
-    "title": "toughsms docs",
+    "title": "神行者专版计费用户手册",
+    "author": "www.xspeeder.com",
     "description": "",
     "isbn": "",
     "extension": "",
@@ -28,7 +29,7 @@
     "variables": {},
     "links": {
         "sidebar": {
-            "神行者专版计费用户参考手册": "http://sxzradius.toughcloud.net"
+            "PDF文档下载": "http://115.159.56.13:8008/sxzradius.pdf"
         }
     },
     "pdf": {
