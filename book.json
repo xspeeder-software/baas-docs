@@ -13,14 +13,14 @@
     "style":{
         "website":"styles/website.css"
     },
-    "theme-default": {
-        "showLevel": true
-    },
     "pluginsConfig": {
         "fontSettings": {
           "theme": "white",
           "family": "msyh",
           "size": 2
+        },
+        "theme-default": {
+            "showLevel": true
         },
         "plugins": [
           "yahei"
