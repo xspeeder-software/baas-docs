@@ -12,7 +12,18 @@
     "style":{
         "website":"styles/website.css"
     },
+    "theme-default": {
+        "showLevel": true
+    },
     "pluginsConfig": {
+        "fontSettings": {
+          "theme": "white",
+          "family": "msyh",
+          "size": 2
+        },
+        "plugins": [
+          "yahei"
+        ]
     },
     "variables": {},
     "links": {
