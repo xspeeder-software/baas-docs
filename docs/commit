@@ -1,5 +1,0 @@
-#!/bin/bash
-
-git add .
-git commit -am "commit sxzradius gitbook `date +%Y-%m-%d" "%H:%M:%S`"
-git push  origin master
