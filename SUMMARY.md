@@ -2,6 +2,7 @@
 * [服务支持](pages/support.md)
 * [版本发布记录](pages/versions.md)
 * [安装配置指导](pages/install.md)
+* [软件升级管理](pages/upgrade.md)
 * [软件授权](pages/license.md)
 * [常见问题](pages/faqs.md)
 * [业务概念](pages/opt/service.md) 

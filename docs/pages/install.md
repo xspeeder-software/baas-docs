@@ -30,11 +30,11 @@
 
 ## 获取最新的安装文件 
 
-最新版本文件下载地址 http://115.159.56.13:8008/toughsms-latest-linux-x64.tar.bz2 
+最新版本文件下载地址 http://toughsms.upgrade.toughcloud.net/toughsms-latest-linux-x64.tar.bz2 
 
 解压至 /opt 目录
 
-    curl http://115.159.56.13:8008/toughsms-latest-linux-x64.tar.bz2 -o /opt/toughsms-linux-x64.tar.bz2
+    curl http://toughsms.upgrade.toughcloud.net/toughsms-latest-linux-x64.tar.bz2 -o /opt/toughsms-linux-x64.tar.bz2
     cd /opt
     tar xvf toughsms-linux-x64.tar.bz2
 
