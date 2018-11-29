@@ -1,7 +1,7 @@
 {
     "output": "",
     "generator": "site",
-    "title": "神行者专版计费用户手册",
+    "title": "神行者云计费用户手册",
     "author": "www.xspeeder.com",
     "description": "",
     "isbn": "",
@@ -29,7 +29,7 @@
     "variables": {},
     "links": {
         "sidebar": {
-            "PDF文档下载": "http://sxzradius.toughcloud.net/sxzradius.pdf"
+            "PDF文档下载": "http://baasdoc.xspeeder/xspeeder-baas.pdf"
         }
     },
     "pdf": {
