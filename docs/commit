@@ -1,5 +1,0 @@
-#!/bin/bash
-
-git add .
-git commit -am "commit baasdoc gitbook `date +%Y-%m-%d" "%H:%M:%S`"
-git push  origin master
