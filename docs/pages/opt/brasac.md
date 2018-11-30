@@ -19,7 +19,7 @@ BRAS 主要针对 PPPOE 认证
 ![](http://static.toughcloud.net/toughsms/tc_20181130144324_27.png)
 
 
-## AC 设别
+## AC 设备
 
 BRAS 主要针对 WLAN 认证
 
