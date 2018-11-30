@@ -1,6 +1,6 @@
 # 资费结构
 
-![](http://static.toughcloud.net/toughsms/tc_20181130115626_4.png)
+![](http://static.toughcloud.net/toughsms/tc_20181130122027_5.png)
 
 
 ##  服务定义
