@@ -23,3 +23,10 @@
     font-size: 1.3em;
     line-height: 1.43;
 }
+
+.page-inner {
+    position: relative;
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 20px 15px 40px 15px;
+}
