@@ -29,7 +29,7 @@
     "variables": {},
     "links": {
         "sidebar": {
-            "PDF文档下载": "http://baasdoc.xspeeder/xspeeder-baas.pdf"
+            "PDF文档下载": "https://github.com/xspeeder-software/baas-docs/raw/master/xspeeder-baas.pdf"
         }
     },
     "pdf": {
