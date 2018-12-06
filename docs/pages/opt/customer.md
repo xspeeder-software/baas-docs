@@ -1,13 +1,14 @@
 # 客户管理
 
 
-
 ## 客户信息查询，基本信息修改
 
-![](http://static.toughcloud.net/toughsms/tc_20180524122050_3.png)
+![](http://static.toughcloud.net/toughsms/tc_20181206151848_14.png)
 
 
-## 服务密码修改
+## 客户基本信息修改
 
-![](http://static.toughcloud.net/toughsms/tc_20180524122145_4.png)
+![](http://static.toughcloud.net/toughsms/tc_20181206151916_15.png)
 
+
+> 客户服务密码主要用来登陆自助服务系统，暂未启用

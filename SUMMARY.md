@@ -15,7 +15,7 @@
   * [无线认证域](pages/opt/domain.md)
   * [服务与资费](pages/opt/service.md)
   * [收费项目管理](pages/opt/fees.md)
-  * [客户资料](pages/opt/customer.md)
+  * [客户基本资料](pages/opt/customer.md)
   * [客户业务受理](pages/opt/subscribe.md)
   * [账务管理](pages/opt/account.md)
   * [工单管理](pages/opt/issues.md)
