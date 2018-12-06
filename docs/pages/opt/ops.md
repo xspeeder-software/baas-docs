@@ -20,3 +20,14 @@
 
 ![](http://static.toughcloud.net/toughsms/tc_20181206163414_38.png)
 
+- 用户上网日志
+
+系统对上网日志保存180天，满足公安部82号令要求
+
+![](http://static.toughcloud.net/toughsms/tc_20181206165638_40.png)
+
+- 流量统计
+
+方便流量资费统计
+
+![](http://static.toughcloud.net/toughsms/tc_20181206165933_41.png)
