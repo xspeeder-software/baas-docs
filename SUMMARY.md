@@ -2,6 +2,7 @@
 * [产品发布记录](pages/versions.md)
 * [常见问题](pages/faqs.md)
 * [神行者云计费平台注册](pages/register.md)
+* [快速开始](pages/quickstart.md)
 * [对接指南](pages/access/access.md)
   * [神行者BRAS对接指南](pages/access/xspeeder.md)
 * [业务指南](pages/service.md)
