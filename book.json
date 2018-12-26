@@ -23,7 +23,8 @@
             "showLevel": true
         },
         "plugins": [
-          "yahei"
+          "yahei",
+		  "lunr"
         ]
     },
     "variables": {},
