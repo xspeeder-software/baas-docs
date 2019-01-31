@@ -20,7 +20,7 @@
           "size": 2
         },
         "theme-default": {
-            "showLevel": true
+            "showLevel": false
         },
         "plugins": [
           "yahei",

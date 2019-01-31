@@ -1,8 +1,8 @@
-# BRAS/AC接入
+## 9.3. BRAS/AC接入
 
 在用户认证前，必须配置相关的BRAS接入设备信息
 
-## BRAS 设备
+### BRAS 设备
 
 BRAS 主要针对 PPPOE 认证
 
@@ -19,7 +19,7 @@ BRAS 主要针对 PPPOE 认证
 ![](http://static.toughcloud.net/toughsms/tc_20181130144324_27.png)
 
 
-## AC 设备
+### AC 设备
 
 BRAS 主要针对 WLAN 认证
 
