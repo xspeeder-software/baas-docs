@@ -7,7 +7,7 @@
     "isbn": "",
     "extension": "",
     "plugins": [
-        "prism",
+        //"prism",
         "-highlight"
     ],
     "style":{
