@@ -1,0 +1,32 @@
+/* CSS for website */
+
+.book .book-body .page-wrapper .page-inner section.normal h1 {
+    padding-bottom: .3em;
+    font-size: 1.7em;
+    line-height: 1.2;
+    border-bottom: 1px solid #eee;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal h2 {
+    padding-bottom: .3em;
+    font-size: 1.5em;
+    line-height: 1.225;
+    border-bottom: 1px solid #eee;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal h3 {
+    font-size: 1.4em;
+    line-height: 1.43;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal h4 {
+    font-size: 1.3em;
+    line-height: 1.43;
+}
+
+.page-inner {
+    position: relative;
+    max-width: 1250px;
+    margin: 0 auto;
+    padding: 20px 15px 40px 15px;
+}
