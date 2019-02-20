@@ -6,7 +6,7 @@
 * [6. 应用场景 & 解决方案](pages/solution/solution.md)
 * [7. 对接指南](pages/access/access.md)
   * [7.1. 神行者BRAS对接指南](pages/access/xspeeder.md)
-  * [7.2. 神行者路由对接portal指南（公网对接）](pages/access/wlan.md)
+  * [7.2. 神行者路由对接云portal（公网）](pages/access/wlan.md)
 * [8. 业务指南](pages/service.md)
   * [8.1. 组织结构](pages/service/org.md)
   * [8.2. 资费结构](pages/service/product.md)
