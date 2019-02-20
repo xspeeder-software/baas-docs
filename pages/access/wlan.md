@@ -63,25 +63,24 @@
 
 **点击预览,弹出配置好的porta页面**
 
-![](http://static.toughcloud.net/toughsms/ldj_2019-01-31_141501.png)
+![](http://static.toughcloud.net/toughsms/20190220234532.png)
 
 
 #### 四种认证方式
 - 账号密码认证
-![](http://static.toughcloud.net/toughsms/ldj_2019-02-19_163943.png)
-![](http://static.toughcloud.net/toughsms/ldj_2019-02-19_164837.png)
+![](http://static.toughcloud.net/toughsms/20190220234854.png)
 
 - 固定密码认证
 ![](http://static.toughcloud.net/toughsms/ldj_2019-02-19_165010.png)
-![](http://static.toughcloud.net/toughsms/ldj_2019-02-19_165130.png)
+![](hhttp://static.toughcloud.net/toughsms/20190220234827.png)
 
  - 短信认证
  ![](http://static.toughcloud.net/toughsms/ldj_2019-02-19_165246.png)
- ![](http://static.toughcloud.net/toughsms/ldj_2019-02-19_165403.png)
+ ![](http://static.toughcloud.net/toughsms/20190220234748.png)
 
 - 微信认证 
 ![](http://static.toughcloud.net/toughsms/ldj_2019-02-19_165442.png)
-![](http://static.toughcloud.net/toughsms/ldj_2019-02-19_165802.png)
+![](http://static.toughcloud.net/toughsms/20190220234632.png)
 
 
 #### 在线信息
